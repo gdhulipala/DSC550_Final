@@ -5,8 +5,7 @@ Final Term Project
 ## Notes Related to Data File
 
 The dataset used here is categorized-comments.jsonl which is about 500 MB in size. Hence not able to upload in the data folder
-However, the WorkflowQueue has a variable (datafilepath)for file path. If the variable is replaced with the right path the 
-code should execute and generate the report
+as the git hub is throwing an error that the size is greater than 100 MB. However, the WorkflowQueue has a variable "datafilepath" for file path. If the variable is replaced with the right folder path the code should execute and generate the report
 
 ## Notes About The Project
 
