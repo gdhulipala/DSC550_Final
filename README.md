@@ -3,7 +3,7 @@ Final Term Project
 
 ## Dataset
 
-categorized-comments.jsonl - size 500 MB
+categorized-comments.jsonl - size 415 MB
 
 ## Notes Related to Data Folder and Dataset Size
 
